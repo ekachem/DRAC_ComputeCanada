@@ -10,6 +10,7 @@ The [Digital Research Alliance of Canada](https://www.alliancecan.ca/en) (former
 | **Fir (Cedar)** | 864 | 192 | 750 GB | 7 Days |
 | **Nibi (Graham)** | 700 | 192 | 748 GB | 7 Days |
 | **Rorqual (Beluga)** | 670 | 192 | 750 GB | 7 Days |
+| **Narval** | 1145 | 64 | 250 GB | 7 Days |
 
 ---
 
